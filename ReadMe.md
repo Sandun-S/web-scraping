@@ -11,6 +11,7 @@ pip install requests
 pip install selenium
 pip install webdriver-manager
 pip install scrapy
+pip install prettytable
 
 
 python .\main.py
